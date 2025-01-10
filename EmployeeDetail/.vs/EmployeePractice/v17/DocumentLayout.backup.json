@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programer\\BTech\\Sem-4\\.NET\\EmployeePractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3301CE76-D257-44B3-84EF-ED3DB7F5D719}|EmployeePractice.csproj|d:\\programer\\btech\\sem-4\\.net\\employeepractice\\views\\employee\\addlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3301CE76-D257-44B3-84EF-ED3DB7F5D719}|EmployeePractice.csproj|solutionrelative:views\\employee\\addlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301CE76-D257-44B3-84EF-ED3DB7F5D719}|EmployeePractice.csproj|d:\\programer\\btech\\sem-4\\.net\\employeepractice\\views\\employee\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3301CE76-D257-44B3-84EF-ED3DB7F5D719}|EmployeePractice.csproj|solutionrelative:views\\employee\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301CE76-D257-44B3-84EF-ED3DB7F5D719}|EmployeePractice.csproj|d:\\programer\\btech\\sem-4\\.net\\employeepractice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3301CE76-D257-44B3-84EF-ED3DB7F5D719}|EmployeePractice.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301CE76-D257-44B3-84EF-ED3DB7F5D719}|EmployeePractice.csproj|d:\\programer\\btech\\sem-4\\.net\\employeepractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3301CE76-D257-44B3-84EF-ED3DB7F5D719}|EmployeePractice.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\EmployeePractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\EmployeePractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAADgvxwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T07:45:46.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\EmployeePractice\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\EmployeePractice\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:43:24.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeList.cshtml",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\EmployeePractice\\Views\\Employee\\EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\EmployeeList.cshtml",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\EmployeePractice\\Views\\Employee\\EmployeeList.cshtml",
+              "RelativeToolTip": "Views\\Employee\\EmployeeList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T07:07:49.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddList.cshtml",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\EmployeePractice\\Views\\Employee\\AddList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\AddList.cshtml",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\EmployeePractice\\Views\\Employee\\AddList.cshtml",
+              "RelativeToolTip": "Views\\Employee\\AddList.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T07:06:04.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
