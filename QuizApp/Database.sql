@@ -1,0 +1,1 @@
+CREATE DATABASE Quiz_App
