@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programer\\BTech\\Sem-4\\.NET\\ProductPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE3A48-A9E2-41CD-ADF7-098A91ADC9CC}|ProductPractice.csproj|d:\\programer\\btech\\sem-4\\.net\\productpractice\\views\\product\\addlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BFE3A48-A9E2-41CD-ADF7-098A91ADC9CC}|ProductPractice.csproj|solutionrelative:views\\product\\addlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE3A48-A9E2-41CD-ADF7-098A91ADC9CC}|ProductPractice.csproj|d:\\programer\\btech\\sem-4\\.net\\productpractice\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BFE3A48-A9E2-41CD-ADF7-098A91ADC9CC}|ProductPractice.csproj|solutionrelative:views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE3A48-A9E2-41CD-ADF7-098A91ADC9CC}|ProductPractice.csproj|d:\\programer\\btech\\sem-4\\.net\\productpractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BFE3A48-A9E2-41CD-ADF7-098A91ADC9CC}|ProductPractice.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\ProductPractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\ProductPractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T03:05:02.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddList.cshtml",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\ProductPractice\\Views\\Product\\AddList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\AddList.cshtml",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\ProductPractice\\Views\\Product\\AddList.cshtml",
+              "RelativeToolTip": "Views\\Product\\AddList.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAawB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T03:17:40.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "D:\\Programer\\BTech\\Sem-4\\.NET\\ProductPractice\\Views\\Product\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\ProductList.cshtml",
+              "ToolTip": "D:\\Programer\\BTech\\Sem-4\\.NET\\ProductPractice\\Views\\Product\\ProductList.cshtml",
+              "RelativeToolTip": "Views\\Product\\ProductList.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T03:08:33.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
